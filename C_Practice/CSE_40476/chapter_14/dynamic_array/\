@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define BUF_SIZE 100
+
+int main(void)
+{
+   char **strings;
+   char *element, buffer;
+   printf("enter next string: ");
+   size_t strlen;
+   for( ;scanf("%s", buffer) != EOF; ++strings)
+   {
+      strlen = sizeof(buffer) + 1;
+      printf("strlen: %ld\n", strlen);
+      element = (char*) malloc(strlen);
+      memcpy(element, buffer, strlen);
+      printf("echo string: %s\n", element);
+
+   }
+
+   return 0;
+}

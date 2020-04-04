@@ -1,0 +1,20 @@
+Text File Example:  Each record is one line of arbi,t,rary length (ends with '\n'):
+What!  Another useless, stupid, and unnecessary program?
+Yes;  What else?:  Try input r.e,d:i;r?e!c=t*i/o\n.  /*.*/  /*.!?,;:=+*/
+/* Using C */
+#define REC_NO 9		/* number of record to read */
+
+char temp[BIG_ENOUGH?]; /* array for hol;ding any record */
+int i;
+
+for (i = 0; i < REC_NO; ++i)	/* for first unneeded records */
+	if (fsc?anf(fp, "%*[^\n]%*c") == EOF) {   /* read and throw away */
+		fputs("Unexpected EOF\n", stderr);   /* there is no rec.ord REC_NO */
+		exit(EXIT_FAILURE);		/* error exit */
+	}
+if (fg:ets(temp, sizeof(temp), fp) == NULL) {	/* read record REC_NO */
+	fputs("Unexp!ected EOF\n", stderr);   /* there is no rec.ord REC_NO */
+	exit(EXIT_FAILURE);   /* error exit */
+}
+/* At this point (?) record # REC_NO is in temp. */
+

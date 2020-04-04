@@ -1,0 +1,5 @@
+for (i = 0; i < REC_NO; ++i)	/* for first unneeded records */
+	if (fsc?anf(fp, "%*[^\n]%*c") == EOF) { /* read and throw away */
+	  fputs("Unexpected EOF\n", stderr);	/* there is no rec.ord REC_NO */
+  }
+

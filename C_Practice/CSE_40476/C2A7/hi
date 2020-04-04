@@ -1,0 +1,1663 @@
+binsize 3 The
+node is null
+Test print: The
+binsize 1 number-sign
+node is null
+Test print: number-sign
+binsize 2 or
+node is null
+Test print: or
+binsize 3 "stringizing"
+Current node str: The
+"stringizing"
+Test print: The
+binsize 3 operator
+Current node str: The
+operator
+Test print: The
+binsize 3 (#)
+Current node str: The
+Current node str: "stringizing"
+(#)
+Test print: "stringizing"
+binsize 3 converts
+Current node str: "stringizing"
+Current node str: (#)
+converts
+Test print: (#)
+binsize 0 macro
+node is null
+Test print: macro
+binsize 0 parameters
+Current node str: macro
+parameters
+Test print: macro
+binsize 1 (after
+Current node str: number-sign
+(after
+Test print: number-sign
+binsize 0 expansion)
+Current node str: macro
+expansion)
+Test print: macro
+binsize 2 to
+Current node str: or
+to
+Test print: or
+binsize 1 string
+Current node str: number-sign
+string
+Test print: number-sign
+binsize 0 constants.
+Current node str: macro
+Current node str: expansion)
+constants.
+Test print: expansion)
+binsize 2 It
+Current node str: or
+It
+Test print: or
+binsize 2 is
+Current node str: or
+Current node str: It
+is
+Test print: It
+binsize 4 used
+node is null
+Test print: used
+binsize 4 only
+Current node str: used
+only
+Test print: used
+binsize 4 with
+Current node str: used
+with
+Test print: used
+binsize 1 macros
+Current node str: number-sign
+Current node str: (after
+macros
+Test print: (after
+binsize 4 that
+Current node str: used
+Current node str: only
+that
+Test print: only
+binsize 4 take
+Current node str: only
+Current node str: that
+take
+Test print: that
+binsize 0 arguments.
+Current node str: expansion)
+Current node str: constants.
+arguments.
+Test print: constants.
+binsize 2 If
+Current node str: It
+If
+Test print: It
+binsize 2 it
+Current node str: It
+Current node str: is
+it
+Test print: is
+binsize 3 precedes
+Current node str: (#)
+Current node str: converts
+precedes
+Test print: converts
+binsize 1 a
+Current node str: (after
+Current node str: macros
+a
+Test print: macros
+binsize 1 formal
+Current node str: macros
+Current node str: a
+formal
+Test print: a
+binsize 4 parameter
+Current node str: that
+Current node str: take
+parameter
+Test print: take
+binsize 2 in
+Current node str: is
+in
+Test print: is
+binsize 3 the
+Current node str: converts
+Current node str: precedes
+the
+Test print: precedes
+binsize 0 macro
+Current node str: constants.
+macro
+Test print: constants.
+binsize 1 definition,
+Current node str: a
+Current node str: formal
+definition,
+Test print: formal
+binsize 3 the
+Current node str: precedes
+Current node str: the
+Test print: the
+binsize 1 actual
+Current node str: formal
+Current node str: definition,
+actual
+Test print: definition,
+binsize 3 argument
+Current node str: the
+argument
+Test print: the
+binsize 1 passed
+Current node str: definition,
+passed
+Test print: definition,
+binsize 2 by
+Current node str: is
+Current node str: in
+by
+Test print: in
+binsize 3 the
+Current node str: the
+Test print: the
+binsize 0 macro
+Current node str: constants.
+Current node str: macro
+Test print: macro
+binsize 0 invocation
+Current node str: macro
+invocation
+Test print: macro
+binsize 2 is
+Current node str: in
+is
+Test print: in
+binsize 3 enclosed
+Current node str: the
+Current node str: argument
+enclosed
+Test print: argument
+binsize 2 in
+Current node str: in
+Test print: in
+binsize 4 quotation
+Current node str: take
+Current node str: parameter
+quotation
+Test print: parameter
+binsize 0 marks
+Current node str: macro
+marks
+Test print: macro
+binsize 3 and
+Current node str: argument
+and
+Test print: argument
+binsize 2 treated
+Current node str: in
+Current node str: is
+treated
+Test print: is
+binsize 2 as
+Current node str: is
+as
+Test print: is
+binsize 1 a
+Current node str: definition,
+Current node str: actual
+a
+Test print: actual
+binsize 1 string
+Current node str: actual
+string
+Test print: actual
+binsize 3 literal.
+Current node str: argument
+Current node str: enclosed
+literal.
+Test print: enclosed
+binsize 3 The
+Current node str: enclosed
+The
+Test print: enclosed
+binsize 1 string
+Current node str: actual
+Current node str: string
+Test print: string
+binsize 2 literal
+Current node str: is
+Current node str: treated
+literal
+Test print: treated
+binsize 4 then
+Current node str: parameter
+Current node str: quotation
+then
+Test print: quotation
+binsize 3 replaces
+Current node str: enclosed
+Current node str: literal.
+replaces
+Test print: literal.
+binsize 4 each
+Current node str: quotation
+each
+Test print: quotation
+binsize 0 occurrence
+Current node str: macro
+Current node str: marks
+occurrence
+Test print: marks
+binsize 2 of
+Current node str: treated
+Current node str: literal
+of
+Test print: literal
+binsize 1 a
+Current node str: string
+a
+Test print: string
+binsize 1 combination
+Current node str: string
+Current node str: a
+combination
+Test print: a
+binsize 2 of
+Current node str: literal
+Current node str: of
+Test print: of
+binsize 3 the
+Current node str: literal.
+Current node str: replaces
+the
+Test print: replaces
+binsize 1 stringizing
+Current node str: a
+Current node str: combination
+stringizing
+Test print: combination
+binsize 3 operator
+Current node str: replaces
+operator
+Test print: replaces
+binsize 3 and
+Current node str: replaces
+Current node str: operator
+and
+Test print: operator
+binsize 1 formal
+Current node str: combination
+Current node str: stringizing
+formal
+Test print: stringizing
+binsize 4 parameter
+Current node str: quotation
+Current node str: each
+parameter
+Test print: each
+binsize 1 within
+Current node str: stringizing
+within
+Test print: stringizing
+binsize 3 the
+Current node str: operator
+the
+Test print: operator
+binsize 0 macro
+Current node str: marks
+macro
+Test print: marks
+binsize 1 definition.
+Current node str: stringizing
+Current node str: formal
+definition.
+Test print: formal
+binsize 0 White
+Current node str: marks
+Current node str: macro
+White
+Test print: macro
+binsize 0 space
+Current node str: macro
+space
+Test print: macro
+binsize 4 preceding
+Current node str: each
+Current node str: parameter
+preceding
+Test print: parameter
+binsize 3 the
+Current node str: operator
+Current node str: the
+Test print: the
+binsize 0 first
+Current node str: macro
+Current node str: White
+first
+Test print: White
+binsize 0 token
+Current node str: White
+Current node str: first
+token
+Test print: first
+binsize 2 of
+Current node str: of
+Test print: of
+binsize 3 the
+Current node str: the
+Test print: the
+binsize 1 actual
+Current node str: formal
+Current node str: definition.
+actual
+Test print: definition.
+binsize 3 argument
+Current node str: the
+argument
+Test print: the
+binsize 3 and
+Current node str: the
+Current node str: argument
+and
+Test print: argument
+binsize 4 following
+Current node str: parameter
+following
+Test print: parameter
+binsize 3 the
+Current node str: argument
+the
+Test print: argument
+binsize 4 last
+Current node str: parameter
+Current node str: following
+last
+Test print: following
+binsize 0 token
+Current node str: first
+Current node str: token
+Test print: token
+binsize 2 of
+Current node str: of
+Test print: of
+binsize 3 the
+Current node str: argument
+Current node str: the
+Test print: the
+binsize 1 actual
+Current node str: definition.
+Current node str: actual
+Test print: actual
+binsize 3 argument
+Current node str: the
+argument
+Test print: the
+binsize 2 is
+Current node str: of
+is
+Test print: of
+binsize 3 ignored.
+Current node str: the
+Current node str: argument
+ignored.
+Test print: argument
+binsize 3 Any
+Current node str: argument
+Any
+Test print: argument
+binsize 0 white
+Current node str: token
+white
+Test print: token
+binsize 0 space
+Current node str: token
+space
+Test print: token
+binsize 2 between
+Current node str: of
+Current node str: is
+between
+Test print: is
+binsize 3 the
+Current node str: argument
+Current node str: ignored.
+the
+Test print: ignored.
+binsize 1 tokens
+Current node str: actual
+tokens
+Test print: actual
+binsize 2 in
+Current node str: is
+Current node str: between
+in
+Test print: between
+binsize 3 the
+Current node str: ignored.
+Current node str: the
+Test print: the
+binsize 1 actual
+Current node str: actual
+Test print: actual
+binsize 3 argument
+Current node str: the
+argument
+Test print: the
+binsize 2 is
+Current node str: between
+Current node str: in
+is
+Test print: in
+binsize 2 reduced
+Current node str: in
+Current node str: is
+reduced
+Test print: is
+binsize 2 to
+Current node str: is
+Current node str: reduced
+to
+Test print: reduced
+binsize 1 a
+Current node str: actual
+a
+Test print: actual
+binsize 1 single
+Current node str: actual
+Current node str: tokens
+single
+Test print: tokens
+binsize 0 white
+Current node str: token
+Current node str: white
+Test print: white
+binsize 0 space
+Current node str: white
+space
+Test print: white
+binsize 2 in
+Current node str: reduced
+in
+Test print: reduced
+binsize 3 the
+Current node str: the
+Test print: the
+binsize 4 resulting
+Current node str: following
+Current node str: last
+resulting
+Test print: last
+binsize 1 string
+Current node str: tokens
+Current node str: single
+string
+Test print: single
+binsize 3 literal.
+Current node str: the
+Current node str: argument
+literal.
+Test print: argument
+binsize 0 Thus,
+Current node str: white
+Current node str: space
+Thus,
+Test print: space
+binsize 2 if
+Current node str: reduced
+Current node str: in
+if
+Test print: in
+binsize 1 a
+Current node str: single
+a
+Test print: single
+binsize 2 comment
+Current node str: in
+Current node str: if
+comment
+Test print: if
+binsize 1 occurs
+Current node str: single
+Current node str: a
+occurs
+Test print: a
+binsize 2 between
+Current node str: if
+Current node str: comment
+between
+Test print: comment
+binsize 3 two
+Current node str: argument
+Current node str: literal.
+two
+Test print: literal.
+binsize 1 tokens
+Current node str: a
+Current node str: occurs
+tokens
+Test print: occurs
+binsize 2 in
+Current node str: comment
+in
+Test print: comment
+binsize 3 the
+Current node str: literal.
+Current node str: two
+the
+Test print: two
+binsize 1 actual
+Current node str: occurs
+actual
+Test print: occurs
+binsize 4 argument,
+Current node str: last
+argument,
+Test print: last
+binsize 2 it
+Current node str: comment
+Current node str: in
+it
+Test print: in
+binsize 2 is
+Current node str: in
+Current node str: it
+is
+Test print: it
+binsize 2 reduced
+Current node str: it
+reduced
+Test print: it
+binsize 2 to
+Current node str: it
+Current node str: reduced
+to
+Test print: reduced
+binsize 1 a
+Current node str: occurs
+Current node str: actual
+a
+Test print: actual
+binsize 1 single
+Current node str: actual
+single
+Test print: actual
+binsize 0 white
+Current node str: space
+white
+Test print: space
+binsize 1 space.
+Current node str: actual
+Current node str: single
+space.
+Test print: single
+binsize 3 The
+Current node str: two
+Current node str: the
+The
+Test print: the
+binsize 4 resulting
+Current node str: last
+Current node str: resulting
+Test print: resulting
+binsize 1 string
+Current node str: single
+Current node str: space.
+string
+Test print: space.
+binsize 2 literal
+Current node str: reduced
+literal
+Test print: reduced
+binsize 2 is
+Current node str: reduced
+Current node str: literal
+is
+Test print: literal
+binsize 3 automatically
+Current node str: the
+Current node str: The
+automatically
+Test print: The
+binsize 2 concatenated
+Current node str: literal
+Current node str: is
+concatenated
+Test print: is
+binsize 4 with
+Current node str: resulting
+with
+Test print: resulting
+binsize 3 any
+Current node str: The
+Current node str: automatically
+any
+Test print: automatically
+binsize 3 adjacent
+Current node str: automatically
+Current node str: any
+adjacent
+Test print: any
+binsize 1 string
+Current node str: space.
+Current node str: string
+Test print: string
+binsize 3 literals
+Current node str: any
+literals
+Test print: any
+binsize 4 from
+Current node str: resulting
+from
+Test print: resulting
+binsize 0 which
+Current node str: space
+Current node str: white
+which
+Test print: white
+binsize 2 it
+Current node str: is
+it
+Test print: is
+binsize 2 is
+Current node str: is
+Test print: is
+binsize 4 separated
+Current node str: resulting
+Current node str: with
+separated
+Test print: with
+binsize 4 only
+Current node str: with
+Current node str: separated
+only
+Test print: separated
+binsize 2 by
+Current node str: is
+Current node str: concatenated
+by
+Test print: concatenated
+binsize 0 white
+Current node str: white
+Test print: white
+binsize 1 space.
+Current node str: string
+space.
+Test print: string
+19 entries for bin 0:
+   0  which
+   2  white
+30 entries for bin 1:
+   0  space.
+   2  string
+32 entries for bin 2:
+   0  by
+   1  concatenated
+32 entries for bin 3:
+   0  adjacent
+   2  any
+   0  literals
+18 entries for bin 4:
+   0  only
+   1  separated
+binsize 3 binsize 1 binsize 2 binsize 3 binsize 3 binsize 3 binsize 3 binsize 0 binsize 0 binsize 1 binsize 0 binsize 2 binsize 1 binsize 0 binsize 2 binsize 2 binsize 4 binsize 4 binsize 4 binsize 1 binsize 4 binsize 4 binsize 0 binsize 2 binsize 2 binsize 3 binsize 1 binsize 1 binsize 4 binsize 2 binsize 3 binsize 0 binsize 1 binsize 3 binsize 1 binsize 3 binsize 1 binsize 2 binsize 3 binsize 0 binsize 0 binsize 2 binsize 3 binsize 2 binsize 4 binsize 0 binsize 3 binsize 2 binsize 2 binsize 1 binsize 1 binsize 3 binsize 3 binsize 1 binsize 2 binsize 4 binsize 3 binsize 4 binsize 0 binsize 2 binsize 1 binsize 1 binsize 2 binsize 3 binsize 1 binsize 3 binsize 3 binsize 1 binsize 4 binsize 1 binsize 3 binsize 0 binsize 1 binsize 0 binsize 0 binsize 4 binsize 3 binsize 0 binsize 0 binsize 2 binsize 3 binsize 1 binsize 3 binsize 3 binsize 4 binsize 3 binsize 4 binsize 0 binsize 2 binsize 3 binsize 1 binsize 3 binsize 2 binsize 3 binsize 3 binsize 0 binsize 0 binsize 2 binsize 3 binsize 1 binsize 2 binsize 3 binsize 1 binsize 3 binsize 2 binsize 2 binsize 2 binsize 1 binsize 1 binsize 0 binsize 0 binsize 2 binsize 3 binsize 4 binsize 1 binsize 3 binsize 0 binsize 2 binsize 1 binsize 2 binsize 1 binsize 2 binsize 3 binsize 1 binsize 2 binsize 3 binsize 1 binsize 4 binsize 2 binsize 2 binsize 2 binsize 2 binsize 1 binsize 1 binsize 0 binsize 1 binsize 3 binsize 4 binsize 1 binsize 2 binsize 2 binsize 3 binsize 2 binsize 4 binsize 3 binsize 3 binsize 1 binsize 3 binsize 4 binsize 0 binsize 2 binsize 2 binsize 4 binsize 4 binsize 2 binsize 0 binsize 1 binsize 3 The
+node is null
+binsize 1 number-sign
+node is null
+binsize 2 or
+node is null
+binsize 3 "stringizing"
+node is null
+binsize 3 operator
+node is null
+binsize 3 (#)
+node is null
+binsize 3 converts
+node is null
+binsize 0 macro
+node is null
+binsize 0 parameters
+node is null
+binsize 1 (after
+node is null
+binsize 0 expansion)
+node is null
+binsize 2 to
+node is null
+binsize 1 string
+node is null
+binsize 0 constants.
+node is null
+binsize 2 It
+node is null
+binsize 2 is
+node is null
+binsize 4 used
+node is null
+binsize 4 only
+node is null
+binsize 4 with
+node is null
+binsize 1 macros
+node is null
+binsize 4 that
+node is null
+binsize 4 take
+node is null
+binsize 0 arguments.
+node is null
+binsize 2 If
+node is null
+binsize 2 it
+node is null
+binsize 3 precedes
+node is null
+binsize 1 a
+node is null
+binsize 1 formal
+node is null
+binsize 4 parameter
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 1 definition,
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 1 passed
+node is null
+binsize 2 by
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 0 invocation
+node is null
+binsize 2 is
+node is null
+binsize 3 enclosed
+node is null
+binsize 2 in
+node is null
+binsize 4 quotation
+node is null
+binsize 0 marks
+node is null
+binsize 3 and
+node is null
+binsize 2 treated
+node is null
+binsize 2 as
+node is null
+binsize 1 a
+node is null
+binsize 1 string
+node is null
+binsize 3 literal.
+node is null
+binsize 3 The
+node is null
+binsize 1 string
+node is null
+binsize 2 literal
+node is null
+binsize 4 then
+node is null
+binsize 3 replaces
+node is null
+binsize 4 each
+node is null
+binsize 0 occurrence
+node is null
+binsize 2 of
+node is null
+binsize 1 a
+node is null
+binsize 1 combination
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 stringizing
+node is null
+binsize 3 operator
+node is null
+binsize 3 and
+node is null
+binsize 1 formal
+node is null
+binsize 4 parameter
+node is null
+binsize 1 within
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 1 definition.
+node is null
+binsize 0 White
+node is null
+binsize 0 space
+node is null
+binsize 4 preceding
+node is null
+binsize 3 the
+node is null
+binsize 0 first
+node is null
+binsize 0 token
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 3 and
+node is null
+binsize 4 following
+node is null
+binsize 3 the
+node is null
+binsize 4 last
+node is null
+binsize 0 token
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 2 is
+node is null
+binsize 3 ignored.
+node is null
+binsize 3 Any
+node is null
+binsize 0 white
+node is null
+binsize 0 space
+node is null
+binsize 2 between
+node is null
+binsize 3 the
+node is null
+binsize 1 tokens
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 2 is
+node is null
+binsize 2 reduced
+node is null
+binsize 2 to
+node is null
+binsize 1 a
+node is null
+binsize 1 single
+node is null
+binsize 0 white
+node is null
+binsize 0 space
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 4 resulting
+node is null
+binsize 1 string
+node is null
+binsize 3 literal.
+node is null
+binsize 0 Thus,
+node is null
+binsize 2 if
+node is null
+binsize 1 a
+node is null
+binsize 2 comment
+node is null
+binsize 1 occurs
+node is null
+binsize 2 between
+node is null
+binsize 3 two
+node is null
+binsize 1 tokens
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 4 argument,
+node is null
+binsize 2 it
+node is null
+binsize 2 is
+node is null
+binsize 2 reduced
+node is null
+binsize 2 to
+node is null
+binsize 1 a
+node is null
+binsize 1 single
+node is null
+binsize 0 white
+node is null
+binsize 1 space.
+node is null
+binsize 3 The
+node is null
+binsize 4 resulting
+node is null
+binsize 1 string
+node is null
+binsize 2 literal
+node is null
+binsize 2 is
+node is null
+binsize 3 automatically
+node is null
+binsize 2 concatenated
+node is null
+binsize 4 with
+node is null
+binsize 3 any
+node is null
+binsize 3 adjacent
+node is null
+binsize 1 string
+node is null
+binsize 3 literals
+node is null
+binsize 4 from
+node is null
+binsize 0 which
+node is null
+binsize 2 it
+node is null
+binsize 2 is
+node is null
+binsize 4 separated
+node is null
+binsize 4 only
+node is null
+binsize 2 by
+node is null
+binsize 0 white
+node is null
+binsize 1 space.
+node is null
+0 entries for bin 0:
+0 entries for bin 1:
+0 entries for bin 2:
+0 entries for bin 3:
+0 entries for bin 4:
+binsize 3 The
+node is null
+binsize 1 number-sign
+node is null
+binsize 2 or
+node is null
+binsize 3 "stringizing"
+node is null
+binsize 3 operator
+node is null
+binsize 3 (#)
+node is null
+binsize 3 converts
+node is null
+binsize 0 macro
+node is null
+binsize 0 parameters
+node is null
+binsize 1 (after
+node is null
+binsize 0 expansion)
+node is null
+binsize 2 to
+node is null
+binsize 1 string
+node is null
+binsize 0 constants.
+node is null
+binsize 2 It
+node is null
+binsize 2 is
+node is null
+binsize 4 used
+node is null
+binsize 4 only
+node is null
+binsize 4 with
+node is null
+binsize 1 macros
+node is null
+binsize 4 that
+node is null
+binsize 4 take
+node is null
+binsize 0 arguments.
+node is null
+binsize 2 If
+node is null
+binsize 2 it
+node is null
+binsize 3 precedes
+node is null
+binsize 1 a
+node is null
+binsize 1 formal
+node is null
+binsize 4 parameter
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 1 definition,
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 1 passed
+node is null
+binsize 2 by
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 0 invocation
+node is null
+binsize 2 is
+node is null
+binsize 3 enclosed
+node is null
+binsize 2 in
+node is null
+binsize 4 quotation
+node is null
+binsize 0 marks
+node is null
+binsize 3 and
+node is null
+binsize 2 treated
+node is null
+binsize 2 as
+node is null
+binsize 1 a
+node is null
+binsize 1 string
+node is null
+binsize 3 literal.
+node is null
+binsize 3 The
+node is null
+binsize 1 string
+node is null
+binsize 2 literal
+node is null
+binsize 4 then
+node is null
+binsize 3 replaces
+node is null
+binsize 4 each
+node is null
+binsize 0 occurrence
+node is null
+binsize 2 of
+node is null
+binsize 1 a
+node is null
+binsize 1 combination
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 stringizing
+node is null
+binsize 3 operator
+node is null
+binsize 3 and
+node is null
+binsize 1 formal
+node is null
+binsize 4 parameter
+node is null
+binsize 1 within
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 1 definition.
+node is null
+binsize 0 White
+node is null
+binsize 0 space
+node is null
+binsize 4 preceding
+node is null
+binsize 3 the
+node is null
+binsize 0 first
+node is null
+binsize 0 token
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 3 and
+node is null
+binsize 4 following
+node is null
+binsize 3 the
+node is null
+binsize 4 last
+node is null
+binsize 0 token
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 2 is
+node is null
+binsize 3 ignored.
+node is null
+binsize 3 Any
+node is null
+binsize 0 white
+node is null
+binsize 0 space
+node is null
+binsize 2 between
+node is null
+binsize 3 the
+node is null
+binsize 1 tokens
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 2 is
+node is null
+binsize 2 reduced
+node is null
+binsize 2 to
+node is null
+binsize 1 a
+node is null
+binsize 1 single
+node is null
+binsize 0 white
+node is null
+binsize 0 space
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 4 resulting
+node is null
+binsize 1 string
+node is null
+binsize 3 literal.
+node is null
+binsize 0 Thus,
+node is null
+binsize 2 if
+node is null
+binsize 1 a
+node is null
+binsize 2 comment
+node is null
+binsize 1 occurs
+node is null
+binsize 2 between
+node is null
+binsize 3 two
+node is null
+binsize 1 tokens
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 4 argument,
+node is null
+binsize 2 it
+node is null
+binsize 2 is
+node is null
+binsize 2 reduced
+node is null
+binsize 2 to
+node is null
+binsize 1 a
+node is null
+binsize 1 single
+node is null
+binsize 0 white
+node is null
+binsize 1 space.
+node is null
+binsize 3 The
+node is null
+binsize 4 resulting
+node is null
+binsize 1 string
+node is null
+binsize 2 literal
+node is null
+binsize 2 is
+node is null
+binsize 3 automatically
+node is null
+binsize 2 concatenated
+node is null
+binsize 4 with
+node is null
+binsize 3 any
+node is null
+binsize 3 adjacent
+node is null
+binsize 1 string
+node is null
+binsize 3 literals
+node is null
+binsize 4 from
+node is null
+binsize 0 which
+node is null
+binsize 2 it
+node is null
+binsize 2 is
+node is null
+binsize 4 separated
+node is null
+binsize 4 only
+node is null
+binsize 2 by
+node is null
+binsize 0 white
+node is null
+binsize 1 space.
+node is null
+0 entries for bin 0:
+0 entries for bin 1:
+0 entries for bin 2:
+0 entries for bin 3:
+0 entries for bin 4:
+binsize 3 The
+node is null
+binsize 1 number-sign
+node is null
+binsize 2 or
+node is null
+binsize 3 "stringizing"
+node is null
+binsize 3 operator
+node is null
+binsize 3 (#)
+node is null
+binsize 3 converts
+node is null
+binsize 0 macro
+node is null
+binsize 0 parameters
+node is null
+binsize 1 (after
+node is null
+binsize 0 expansion)
+node is null
+binsize 2 to
+node is null
+binsize 1 string
+node is null
+binsize 0 constants.
+node is null
+binsize 2 It
+node is null
+binsize 2 is
+node is null
+binsize 4 used
+node is null
+binsize 4 only
+node is null
+binsize 4 with
+node is null
+binsize 1 macros
+node is null
+binsize 4 that
+node is null
+binsize 4 take
+node is null
+binsize 0 arguments.
+node is null
+binsize 2 If
+node is null
+binsize 2 it
+node is null
+binsize 3 precedes
+node is null
+binsize 1 a
+node is null
+binsize 1 formal
+node is null
+binsize 4 parameter
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 1 definition,
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 1 passed
+node is null
+binsize 2 by
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 0 invocation
+node is null
+binsize 2 is
+node is null
+binsize 3 enclosed
+node is null
+binsize 2 in
+node is null
+binsize 4 quotation
+node is null
+binsize 0 marks
+node is null
+binsize 3 and
+node is null
+binsize 2 treated
+node is null
+binsize 2 as
+node is null
+binsize 1 a
+node is null
+binsize 1 string
+node is null
+binsize 3 literal.
+node is null
+binsize 3 The
+node is null
+binsize 1 string
+node is null
+binsize 2 literal
+node is null
+binsize 4 then
+node is null
+binsize 3 replaces
+node is null
+binsize 4 each
+node is null
+binsize 0 occurrence
+node is null
+binsize 2 of
+node is null
+binsize 1 a
+node is null
+binsize 1 combination
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 stringizing
+node is null
+binsize 3 operator
+node is null
+binsize 3 and
+node is null
+binsize 1 formal
+node is null
+binsize 4 parameter
+node is null
+binsize 1 within
+node is null
+binsize 3 the
+node is null
+binsize 0 macro
+node is null
+binsize 1 definition.
+node is null
+binsize 0 White
+node is null
+binsize 0 space
+node is null
+binsize 4 preceding
+node is null
+binsize 3 the
+node is null
+binsize 0 first
+node is null
+binsize 0 token
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 3 and
+node is null
+binsize 4 following
+node is null
+binsize 3 the
+node is null
+binsize 4 last
+node is null
+binsize 0 token
+node is null
+binsize 2 of
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 2 is
+node is null
+binsize 3 ignored.
+node is null
+binsize 3 Any
+node is null
+binsize 0 white
+node is null
+binsize 0 space
+node is null
+binsize 2 between
+node is null
+binsize 3 the
+node is null
+binsize 1 tokens
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 3 argument
+node is null
+binsize 2 is
+node is null
+binsize 2 reduced
+node is null
+binsize 2 to
+node is null
+binsize 1 a
+node is null
+binsize 1 single
+node is null
+binsize 0 white
+node is null
+binsize 0 space
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 4 resulting
+node is null
+binsize 1 string
+node is null
+binsize 3 literal.
+node is null
+binsize 0 Thus,
+node is null
+binsize 2 if
+node is null
+binsize 1 a
+node is null
+binsize 2 comment
+node is null
+binsize 1 occurs
+node is null
+binsize 2 between
+node is null
+binsize 3 two
+node is null
+binsize 1 tokens
+node is null
+binsize 2 in
+node is null
+binsize 3 the
+node is null
+binsize 1 actual
+node is null
+binsize 4 argument,
+node is null
+binsize 2 it
+node is null
+binsize 2 is
+node is null
+binsize 2 reduced
+node is null
+binsize 2 to
+node is null
+binsize 1 a
+node is null
+binsize 1 single
+node is null
+binsize 0 white
+node is null
+binsize 1 space.
+node is null
+binsize 3 The
+node is null
+binsize 4 resulting
+node is null
+binsize 1 string
+node is null
+binsize 2 literal
+node is null
+binsize 2 is
+node is null
+binsize 3 automatically
+node is null
+binsize 2 concatenated
+node is null
+binsize 4 with
+node is null
+binsize 3 any
+node is null
+binsize 3 adjacent
+node is null
+binsize 1 string
+node is null
+binsize 3 literals
+node is null
+binsize 4 from
+node is null
+binsize 0 which
+node is null
+binsize 2 it
+node is null
+binsize 2 is
+node is null
+binsize 4 separated
+node is null
+binsize 4 only
+node is null
+binsize 2 by
+node is null
+binsize 0 white
+node is null
+binsize 1 space.
+node is null
+0 entries for bin 0:
+0 entries for bin 1:
+0 entries for bin 2:
+0 entries for bin 3:
+0 entries for bin 4:
